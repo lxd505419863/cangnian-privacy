@@ -17,3 +17,15 @@
 ```text
 https://lxd505419863.github.io/cangnian-privacy/
 ```
+
+App Store Connect 的技术支持网址可填写：
+
+```text
+https://lxd505419863.github.io/cangnian-privacy/support.html
+```
+
+英文支持页面：
+
+```text
+https://lxd505419863.github.io/cangnian-privacy/support-en.html
+```
